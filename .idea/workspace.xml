@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221474a9-1f72-4236-8611-a7d87222c89d" name="Changes" comment="" />
+    <list default="true" id="221474a9-1f72-4236-8611-a7d87222c89d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/UserValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/UserValidation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
       <recent name="com.bridgelabz" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EmailValidationTest.givenUserEmail_WhenProper_ShouldReturnTrue">
+  <component name="RunManager" selected="Application.UserValidation">
     <configuration name="UserValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.UserValidation" />
       <module name="Bridgelabz_Day21_PracticeProblem" />
@@ -96,9 +99,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserValidation" />
         <item itemvalue="JUnit.EmailValidationTest.givenUserEmail_WhenProper_ShouldReturnTrue" />
         <item itemvalue="JUnit.UserValidationTest.givenFirstName_WhenProper_ShouldReturnTrue" />
-        <item itemvalue="Application.UserValidation" />
       </list>
     </recent_temporary>
   </component>
